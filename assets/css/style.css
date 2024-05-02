@@ -1,0 +1,48 @@
+
+.home-banner{
+  background-color: rgb(224, 220, 240);
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+    text-align: center; 
+}
+.high-priority{
+  background: #5E5DF0;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  color: #fff;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+}
+.medium-priority{
+  background: #8080cb;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  color: #fff;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+}
+.low-priority{
+  background: #a2a2bc;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  color: #fff;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+}
+.tb-todo{
+  background-color: #fff;
+}
